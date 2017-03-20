@@ -1,7 +1,8 @@
 .DS_Store
 node_modules/
 deploy_git/
-idea/
+.idea/
 dist/
 npm-debug.log
 theme.zip
+
