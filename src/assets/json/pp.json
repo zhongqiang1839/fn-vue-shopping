@@ -1,0 +1,32 @@
+{
+  "触屏迭代静态页面": [
+    {
+      "name": "首页",
+      "url": "./index",
+      "la": 1,
+      "plist": [],
+      "svn": [
+        {
+          "title": "首页",
+          "url": "./index/index.html",
+          "name": "index.html"
+        }
+      ]
+    }
+  ],
+  "杂七杂八": [
+    {
+      "name": "api",
+      "url": "./api",
+      "la": 1,
+      "plist": [],
+      "svn": [
+        {
+          "title": "欢迎访问触屏版飞牛网站",
+          "url": "./api/api.html",
+          "name": "api.html"
+        }
+      ]
+    }
+  ]
+}
