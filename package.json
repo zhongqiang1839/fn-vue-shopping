@@ -2,8 +2,8 @@
   "name": "fn-vue-shopping",
   "version": "1.0.0",
   "description": "fn list vue2.0 vuex2.0 rebuild",
-  "author": "zhongqiang.feng@feiniu.com",
-  "private": true,
+  "author": "zhongqiang1839@163.com",
+  "private": false,
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",
