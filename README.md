@@ -41,8 +41,6 @@
 │   ├── index.js       //elemeui  的引入
 
 
-*备注* 引入饿了么UI的 源码，便于修改成自己需要的业务需求， 其实这样做不太好，不利于开源项目的开展。这是本人做的一个练习的小项目。也是为了方便学习element-ui的源码. 如果有什么不妥的地方，请联系本人删除。  **推荐使用 npm install element-ui -S**，  进行安装并使用 element-ui。
-
 
 >email：zhongqiang1839@163.com
 
